@@ -14,7 +14,7 @@ const BIO = {
   links: [
     { t: "Profil Roblox", s: "Lihat semua game buatanku", u: CONFIG.profile, i: "roblox", featured: true },
     { t: "MainYuk", s: "Game online gratis, langsung main", u: "https://mbg-kiw-kiw.vercel.app/", i: "pad", same: true },
-    { t: "Web Roblox", s: "Game Roblox buatanku", u: "https://roblox-prabbbz.vercel.app/", i: "roblox" },
+    { t: "Web Roblox", s: "Game Roblox buatanku", u: "https://roblox-prabbbz.vercel.app/", i: "roblox", sane: true },
     { t: "Discord", s: "Gabung komunitas & dapat info update", u: CONFIG.discord, i: "discord" },
     { t: "TikTok", s: "Cuplikan gameplay & pengumuman", u: "https://www.tiktok.com/@sueprabu_21?is_from_webapp=1&sender_device=pc", i: "tiktok" },
     { t: "YouTube", s: "Video dan trailer game", u: "", i: "youtube" },
